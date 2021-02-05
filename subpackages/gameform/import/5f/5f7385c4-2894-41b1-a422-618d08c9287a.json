@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "deISkiQPtMQ6FeaA8/XTB6"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "猫动作_tex",
+      "rect": [
+        1,
+        1,
+        1018,
+        629
+      ],
+      "offset": [
+        -2,
+        196.5
+      ],
+      "originalSize": [
+        1024,
+        1024
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

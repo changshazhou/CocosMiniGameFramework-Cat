@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "62kQ4q1jpGTKq73MMLWsXd"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "salt2",
+      "rect": [
+        0,
+        0,
+        150,
+        281
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        150,
+        281
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

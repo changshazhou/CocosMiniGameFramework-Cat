@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "c2Y64Kr1tMNKErMUSeFCM8"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "girl_child_item_d",
+      "rect": [
+        0,
+        0,
+        92,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        92,
+        62
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

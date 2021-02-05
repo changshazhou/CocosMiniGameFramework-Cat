@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "474tiy1GdFP5ZO88yd+sn6"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "pot2",
+      "rect": [
+        0,
+        0,
+        505,
+        496
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        505,
+        496
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

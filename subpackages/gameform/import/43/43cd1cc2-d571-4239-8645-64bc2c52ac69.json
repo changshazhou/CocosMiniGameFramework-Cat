@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "7e6wi42BZNW5dMKPb+E4KW"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "Middle_room5_item_d_Dither",
+      "rect": [
+        0,
+        0,
+        111,
+        71
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        111,
+        71
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

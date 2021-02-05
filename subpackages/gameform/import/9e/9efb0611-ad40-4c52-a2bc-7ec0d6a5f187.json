@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "30ciSfn79OU4C34LURQNkp"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "girl_wedding_item_a",
+      "rect": [
+        0,
+        0,
+        68,
+        73
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        68,
+        73
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

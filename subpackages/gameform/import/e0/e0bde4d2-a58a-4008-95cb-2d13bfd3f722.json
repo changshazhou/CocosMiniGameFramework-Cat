@@ -1,0 +1,38 @@
+[
+  1,
+  0,
+  0,
+  [
+    [
+      "cc.JsonAsset",
+      [
+        "_name",
+        "json"
+      ],
+      1
+    ]
+  ],
+  [
+    [
+      0,
+      0,
+      1,
+      3
+    ]
+  ],
+  [
+    [
+      0,
+      "&asset&type&",
+      {
+        "礼花.prefab": "prefab",
+        "effect_paper.png": "texture"
+      }
+    ]
+  ],
+  0,
+  0,
+  [],
+  [],
+  []
+]

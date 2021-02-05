@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "b1IdxlAI9FdKkMbX8Dl/Pg"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "girl_priestess_item",
+      "rect": [
+        0,
+        0,
+        74,
+        96
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        74,
+        96
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "98G0WG6wtEP52wup7rtAjF"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "honey",
+      "rect": [
+        0,
+        1,
+        226,
+        318
+      ],
+      "offset": [
+        0,
+        -0.5
+      ],
+      "originalSize": [
+        226,
+        319
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

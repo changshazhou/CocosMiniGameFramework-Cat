@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "0d99hHwcNG9KwAQ66QIHxJ"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "btndown",
+      "rect": [
+        0,
+        0,
+        200,
+        112
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        200,
+        112
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

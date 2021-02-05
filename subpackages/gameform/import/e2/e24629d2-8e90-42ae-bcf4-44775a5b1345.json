@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "ebQavy3hZCsqpTA13pSwm0"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "cat_hand_angry_kiji_Dither",
+      "rect": [
+        0,
+        4,
+        139,
+        306
+      ],
+      "offset": [
+        0,
+        -2
+      ],
+      "originalSize": [
+        139,
+        310
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

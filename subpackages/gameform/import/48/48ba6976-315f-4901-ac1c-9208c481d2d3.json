@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "0brXCjSqdMuq/HP0Bi9pOj"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "girl_jobhunter_item_a",
+      "rect": [
+        0,
+        0,
+        88,
+        86
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        88,
+        86
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

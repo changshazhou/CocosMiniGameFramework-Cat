@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "a0P2vofEhIvrU+0HwArEfV"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "girl_green_item_a",
+      "rect": [
+        0,
+        0,
+        38,
+        54
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        38,
+        54
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

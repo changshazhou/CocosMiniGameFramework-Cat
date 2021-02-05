@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "b1PPknE3FGG7zITM9WA09k"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "girl_alice_item_h",
+      "rect": [
+        0,
+        0,
+        59,
+        38
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        59,
+        38
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

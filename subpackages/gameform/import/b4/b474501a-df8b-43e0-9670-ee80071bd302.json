@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "38ZWLrnqhK167/FpvZyKxw"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "girl_gal_item_b",
+      "rect": [
+        0,
+        0,
+        70,
+        50
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        70,
+        50
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

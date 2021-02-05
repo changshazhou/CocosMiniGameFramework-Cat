@@ -1,0 +1,96 @@
+[
+  1,
+  [
+    "9buKmz8wRDsLyaNIFbDpeS",
+    "efY3obzGFLXocRkZyYAxru"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    [
+      [
+        {
+          "name": "soysa",
+          "rect": [
+            0,
+            7,
+            157,
+            468
+          ],
+          "offset": [
+            0,
+            -3.5
+          ],
+          "originalSize": [
+            157,
+            475
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "soy",
+          "rect": [
+            0,
+            0,
+            156,
+            489
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            156,
+            489
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        1
+      ]
+    ]
+  ]
+]

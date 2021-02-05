@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "8f3tHGpS9M5KS7d1IUraKN"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "C-_Users_XuLiJia_Desktop_猫老鼠_新_laosu",
+      "rect": [
+        15,
+        11,
+        172,
+        194
+      ],
+      "offset": [
+        1,
+        -3
+      ],
+      "originalSize": [
+        200,
+        210
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

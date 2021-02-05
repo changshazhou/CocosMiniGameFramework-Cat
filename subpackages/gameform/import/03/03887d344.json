@@ -1,0 +1,547 @@
+[
+  1,
+  [
+    "17Shj+fvdLK4NLyOgWKNGl",
+    "fc84YJuCJA6J2tlwgDAnI/",
+    "6a4cuW8lBBoq/9ezcFdznJ",
+    "00YmZB72JHir/Dt8LHrXfM",
+    "66+PQFAiZOEZjAB+lX+bQW",
+    "27YArrhwRAIpU459rVekyU",
+    "a3mPQaQkhNdLqPehIF42JQ",
+    "4eIBStRMxCPaK8PZONYTQm",
+    "b4q1pP3q5KFLLMqXdfeY72",
+    "6e79BmKZFOgaf5cMkviOWF",
+    "81+B966YJCIZdSgHGss1/Z",
+    "c4+QFf7d1I2o7WNIwszYjw",
+    "60xfk83r1A5aMGai+VdmH4"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    [
+      [
+        {
+          "name": "进度条底",
+          "rect": [
+            0,
+            0,
+            411,
+            26
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            411,
+            26
+          ],
+          "capInsets": [
+            31,
+            9,
+            58,
+            9
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "effect_triangle_bottom",
+          "rect": [
+            0,
+            10,
+            442,
+            393
+          ],
+          "offset": [
+            0,
+            -5
+          ],
+          "originalSize": [
+            442,
+            403
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        1
+      ]
+    ],
+    [
+      [
+        {
+          "name": "bgdi",
+          "rect": [
+            0,
+            0,
+            750,
+            638
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            750,
+            638
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        2
+      ]
+    ],
+    [
+      [
+        {
+          "name": "jingbibg",
+          "rect": [
+            0,
+            0,
+            191,
+            74
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            191,
+            74
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        3
+      ]
+    ],
+    [
+      [
+        {
+          "name": "zuotui",
+          "rect": [
+            0,
+            0,
+            127,
+            342
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            127,
+            342
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        4
+      ]
+    ],
+    [
+      [
+        {
+          "name": "bgshang",
+          "rect": [
+            0,
+            0,
+            750,
+            749
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            750,
+            749
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        5
+      ]
+    ],
+    [
+      [
+        {
+          "name": "鼠头",
+          "rect": [
+            0,
+            0,
+            58,
+            50
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            58,
+            50
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        6
+      ]
+    ],
+    [
+      [
+        {
+          "name": "jingbi",
+          "rect": [
+            0,
+            0,
+            62,
+            62
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            62,
+            62
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        7
+      ]
+    ],
+    [
+      [
+        {
+          "name": "进度条",
+          "rect": [
+            0,
+            0,
+            87,
+            16
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            87,
+            16
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        8
+      ]
+    ],
+    [
+      [
+        {
+          "name": "FaceItem_CrossWound_Dither",
+          "rect": [
+            0,
+            0,
+            100,
+            78
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            100,
+            78
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        9
+      ]
+    ],
+    [
+      [
+        {
+          "name": "zuomian",
+          "rect": [
+            0,
+            0,
+            145,
+            550
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            145,
+            550
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        10
+      ]
+    ],
+    [
+      [
+        {
+          "name": "第几关",
+          "rect": [
+            0,
+            0,
+            213,
+            57
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            213,
+            57
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        11
+      ]
+    ],
+    [
+      [
+        {
+          "name": "girl_black_item",
+          "rect": [
+            0,
+            0,
+            47,
+            15
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            47,
+            15
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        12
+      ]
+    ]
+  ]
+]

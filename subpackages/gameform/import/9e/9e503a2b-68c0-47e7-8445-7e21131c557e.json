@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "9cRroTTfFEP6uxJJkNpgdR"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "cub0",
+      "rect": [
+        0,
+        0,
+        236,
+        251
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        236,
+        251
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

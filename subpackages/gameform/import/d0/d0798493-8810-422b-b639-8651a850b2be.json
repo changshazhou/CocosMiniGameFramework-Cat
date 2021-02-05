@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "787Cda4blOGYEvQU8A/xlI"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "girl_painter_item_b",
+      "rect": [
+        0,
+        0,
+        96,
+        158
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        96,
+        158
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

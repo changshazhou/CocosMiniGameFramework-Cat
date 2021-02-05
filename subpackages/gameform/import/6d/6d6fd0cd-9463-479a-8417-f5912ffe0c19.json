@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "5ebj/E+05BV4MsyCo7Qp29"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "girl_scientist_item_b",
+      "rect": [
+        0,
+        0,
+        49,
+        18
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        49,
+        18
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

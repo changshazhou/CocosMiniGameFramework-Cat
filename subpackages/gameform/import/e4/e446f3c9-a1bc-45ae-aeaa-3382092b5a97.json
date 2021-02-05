@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "38kNklewlNXLnzKF0Xd/fL"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "girl_ca_item",
+      "rect": [
+        0,
+        0,
+        100,
+        143
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        100,
+        143
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

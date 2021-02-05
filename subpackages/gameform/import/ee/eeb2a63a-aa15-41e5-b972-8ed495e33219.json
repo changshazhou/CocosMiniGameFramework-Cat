@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "23SGwppFdGp7LkvQCoiL+6"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "老鼠_2_tex",
+      "rect": [
+        1,
+        1,
+        103,
+        250
+      ],
+      "offset": [
+        -11.5,
+        2
+      ],
+      "originalSize": [
+        128,
+        256
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

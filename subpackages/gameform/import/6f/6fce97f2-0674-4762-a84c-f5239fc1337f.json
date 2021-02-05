@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "3boyBJ//xCJKAn+CyPfgh4"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "thusyu",
+      "rect": [
+        0,
+        0,
+        518,
+        356
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        518,
+        356
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

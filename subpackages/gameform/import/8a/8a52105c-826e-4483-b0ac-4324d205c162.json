@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "f4//0KZZRD1KTSKTUs1r9u"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "redcar",
+      "rect": [
+        0,
+        0,
+        421,
+        268
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        421,
+        268
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

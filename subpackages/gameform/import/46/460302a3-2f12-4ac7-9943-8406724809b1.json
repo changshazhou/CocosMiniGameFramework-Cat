@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "d0Gsi/z/xFS4BFj7aGskv7"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "girl_nurse_item_b",
+      "rect": [
+        0,
+        0,
+        53,
+        61
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        53,
+        61
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

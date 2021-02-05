@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "aeQ8NOuyRPlYX3gENt1WpO"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "girl_aloha_item_b",
+      "rect": [
+        0,
+        0,
+        19,
+        33
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        19,
+        33
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

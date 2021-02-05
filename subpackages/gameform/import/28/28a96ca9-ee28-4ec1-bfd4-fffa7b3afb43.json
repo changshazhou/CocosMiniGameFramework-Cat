@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "92KLx3BmxJW6WZV6ReQqIL"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "bowl",
+      "rect": [
+        0,
+        0,
+        391,
+        398
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        391,
+        398
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

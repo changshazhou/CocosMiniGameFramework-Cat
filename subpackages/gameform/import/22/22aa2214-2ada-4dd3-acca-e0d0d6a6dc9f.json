@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "3dkjJBusVN5JvGEU9EQH6m"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "girl_swan_item_a",
+      "rect": [
+        0,
+        0,
+        102,
+        240
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        102,
+        240
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]
